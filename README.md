@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ketankhunti
-- 👀 I’m interested in android development and system design and backend development 
-- 🌱 I’m currently learning Android development and rust
+- 👀 I’m interested in blockchain development 
+- 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach out to me by github and LinkedIn as well
 
