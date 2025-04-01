@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ketankhunti
-- 👀 I’m interested in blockchain development 
-- 🌱 I’m currently learning golang
+- 👀 I’m interested in blockchain development and data engineering. 
+- 🌱 I’m currently learning snowflake
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach out to me by github and LinkedIn as well
 
