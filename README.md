@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ketankhunti
-- 👀 I’m interested in blockchain development and data engineering. 
+- 👀 I’m interested in Rust and data engineering. 
 - 🌱 I’m currently learning snowflake and quantitative research development.
 - 💞️ I’m looking to collaborate on HFT related roles.
 - 📫 you can reach out to me by github and LinkedIn as well.
