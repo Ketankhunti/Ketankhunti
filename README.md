@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ketankhunti
-- 👀 I’m interested in Rust and data engineering. 
-- 🌱 I’m currently learning snowflake and quantitative research development.
-- 💞️ I’m looking to collaborate on HFT related roles.
+- 👀 I’m interested in Rust. 
+- 🌱 I’m currently learning quantitative research development.
 - 📫 you can reach out to me by github and LinkedIn as well.
 - LinkedIn: https://www.linkedin.com/in/ketan-khunti-10b3aa204/
 
