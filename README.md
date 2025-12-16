@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ketankhunti
 - 👀 I’m interested in Rust. 
-- 🌱 I’m currently learning quantitative research development.
+- 🌱 I’m currently learning quantitative research development and agentic AI.
 - 📫 you can reach out to me by github and LinkedIn as well.
 - LinkedIn: https://www.linkedin.com/in/ketan-khunti-10b3aa204/
 
